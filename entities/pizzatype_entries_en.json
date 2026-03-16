@@ -1,0 +1,32 @@
+[
+  {
+    "value": "cornpizza",
+    "synonyms": [
+      "cornpizza"
+    ]
+  },
+  {
+    "value": "pastapizza",
+    "synonyms": [
+      "pastapizza"
+    ]
+  },
+  {
+    "value": "vegtablepizza",
+    "synonyms": [
+      "vegtablepizza"
+    ]
+  },
+  {
+    "value": "paneerpizza",
+    "synonyms": [
+      "paneerpizza"
+    ]
+  },
+  {
+    "value": "vegloadedpizza",
+    "synonyms": [
+      "vegloadedpizza"
+    ]
+  }
+]

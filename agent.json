@@ -1,148 +1,23 @@
-[
-  {
-    "id": "fa46a82b-1588-4f60-aaca-84490b0accc6",
-    "data": [
-      {
-        "text": "enter the ",
-        "userDefined": false
-      },
-      {
-        "text": "address",
-        "meta": "@address",
-        "alias": "address",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "bf361cc9-a9a8-4a0e-9923-1176b31922df",
-    "data": [
-      {
-        "text": "when do you need pizza ",
-        "userDefined": false
-      },
-      {
-        "text": "booking",
-        "meta": "@booking",
-        "alias": "booking",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "3f920158-a613-4331-81f4-ff3f4d3b4618",
-    "data": [
-      {
-        "text": "enter ",
-        "userDefined": false
-      },
-      {
-        "text": "topings",
-        "meta": "@topings",
-        "alias": "topings",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "3aed1a17-3fb3-4a10-9f14-1d28e4bab132",
-    "data": [
-      {
-        "text": "enter ",
-        "userDefined": false
-      },
-      {
-        "text": "pizza  type",
-        "meta": "@pizzatype",
-        "alias": "pizzatype",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "975f2763-9718-457a-83e2-a3b6cdc80aa0",
-    "data": [
-      {
-        "text": "could order me ",
-        "userDefined": false
-      },
-      {
-        "text": "$Size",
-        "meta": "@Size",
-        "alias": "Size",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "bceece72-06c4-477d-a712-3479f3489406",
-    "data": [
-      {
-        "text": "add me pizza to the ",
-        "userDefined": false
-      },
-      {
-        "text": "phone number",
-        "meta": "@sys.phone-number",
-        "alias": "phone-number",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "2637d410-86df-47c5-9a0f-075fa0854cec",
-    "data": [
-      {
-        "text": "order me to the ",
-        "userDefined": false
-      },
-      {
-        "text": "mail id",
-        "meta": "@sys.email",
-        "alias": "email",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  },
-  {
-    "id": "edb32770-4cb8-4786-9729-45ca461b6c23",
-    "data": [
-      {
-        "text": "order me pizza",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "lang": "en",
-    "updated": 0
-  }
-]
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Harshibot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Colombo",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "db6d867c719a4fa5a6a2c04d53b2a884",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

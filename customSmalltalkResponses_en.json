@@ -1,23 +1,33 @@
-{
-  "description": "",
-  "language": "en",
-  "shortDescription": "",
-  "examples": "",
-  "linkToDocs": "",
-  "displayName": "Harshibot",
-  "disableInteractionLogs": false,
-  "disableStackdriverLogs": true,
-  "defaultTimezone": "Asia/Colombo",
-  "isPrivate": true,
-  "mlMinConfidence": 0.3,
-  "supportedLanguages": [],
-  "enableOnePlatformApi": true,
-  "onePlatformApiVersion": "v2",
-  "secondaryKey": "db6d867c719a4fa5a6a2c04d53b2a884",
-  "analyzeQueryTextSentiment": false,
-  "enabledKnowledgeBaseNames": [],
-  "knowledgeServiceConfidenceAdjustment": 0.0,
-  "dialogBuilderMode": false,
-  "baseActionPackagesUrl": "",
-  "enableSpellCorrection": false
-}
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "fine",
+      "good"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "20"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "what question"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "yes i am bad"
+    ]
+  }
+]

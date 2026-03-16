@@ -1,0 +1,20 @@
+[
+  {
+    "value": "now",
+    "synonyms": [
+      "now"
+    ]
+  },
+  {
+    "value": "later",
+    "synonyms": [
+      "later"
+    ]
+  },
+  {
+    "value": "after 5 mins",
+    "synonyms": [
+      "after 5 mins"
+    ]
+  }
+]
