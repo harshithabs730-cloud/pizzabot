@@ -1,0 +1,33 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "fine",
+      "good"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "20"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "what question"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "yes i am bad"
+    ]
+  }
+]
